@@ -1,6 +1,8 @@
 {
+  "author": "carpodi"
   "dependencies": {
     "discord.js": "^13.8.0",
     "megadb": "^3.4.0"
+    
   }
 }
