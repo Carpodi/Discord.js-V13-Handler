@@ -1,5 +1,5 @@
 # Discord.js-V13-Handler
-This is a discord.js handler. This handler make easier the managment of commands & slashcommands.
+This is a discord.js handler. This handler make easier the managment of commands & Slash Commands.
 
 # How to setup
 
