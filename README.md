@@ -16,7 +16,7 @@ Note: If you already have one skip this step ofc
 **Step 4**- Copy your Bot Token
 
 **Step 5**- Download the dependencies 
-[npm i discord.js&megadb
+[npm i discord.js&megadb]
 
 **Step 6**- Replace the stuff in the [Config](config.json) file.
 
